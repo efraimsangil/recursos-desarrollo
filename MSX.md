@@ -10,6 +10,10 @@ https://github.com/CocoaMSX/CocoaMSX
 
 https://openmsx.org/
 
+### BlueMSX (Windows)
+
+http://bluemsx.msxblue.com/download.html
+
 ## Entornos de desarrollo - librerías
 
 ### Fusion-C 1.2
